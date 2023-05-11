@@ -1,16 +1,30 @@
-### Hi there 👋
+### I am Abdelsalam Elomda (عبدالسلام العمدة)
 
-<!--
-**whitefish-mm/whitefish-mm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! 👋 I'm Abdelsalam, a passionate Computer Engineer from Egypt 🇪🇬 with 8+ years of experience in the tech industry. I specialize in full-stack development and AI, and I'm dedicated to using my skills to create innovative and impactful solutions.
 
-Here are some ideas to get you started:
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![GitHub Streak](https://streak-stats.demolab.com?user=whitefish-mm&theme=soft-green&hide_border=true)](https://git.io/streak-stats)
+
+<!--START_SECTION:waka-->
+
+```text
+From: 10 April 2023 - To: 10 May 2023
+
+Total Time: 71 hrs 27 mins
+
+C            32 hrs 40 mins  █████████▓░░░░░░░░░░░░░░░   38.92 %
+Other        12 hrs 29 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.87 %
+Python       11 hrs 4 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.19 %
+C++          10 hrs 16 mins  ███░░░░░░░░░░░░░░░░░░░░░░   12.25 %
+Markdown     7 hrs 15 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 %
+```
+
+<!--END_SECTION:waka-->
+
+---
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=whitefish-mm&theme=vue-dark&layout=compact&count_private=true&show_icons=true&hide_border=true"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whitefish-mm&theme=vue-dark&layout=compact&hide_border=true&card_width=250&langs_count=12"/>
+
+<br />
