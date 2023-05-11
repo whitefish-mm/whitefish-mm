@@ -4,7 +4,7 @@ Hi there! 👋 I'm Abdelsalam, a passionate Computer Engineer from Egypt 🇪�
 
 <br />
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=whitefish-mm&theme=vue&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=whitefish-mm&theme=gotham&hide_border=true)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
 
