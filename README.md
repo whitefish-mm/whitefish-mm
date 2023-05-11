@@ -4,7 +4,7 @@ Hi there! 👋 I'm Abdelsalam, a passionate Computer Engineer from Egypt 🇪�
 
 <br />
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=whitefish-mm&theme=soft-green&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=whitefish-mm&theme=vue&hide_border=true)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
 
@@ -24,7 +24,6 @@ Markdown     7 hrs 15 mins   ██░░░░░░░░░░░░░░░
 
 ---
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=whitefish-mm&theme=vue-dark&layout=compact&count_private=true&show_icons=true&hide_border=true"/>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whitefish-mm&theme=vue-dark&layout=compact&hide_border=true&card_width=250&langs_count=12"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=whitefish-mm&theme=transparent&layout=compact&count_private=true&show_icons=true&hide_border=true"/>
 
 <br />
